@@ -9,3 +9,9 @@
   resize: none;
   font-size: 16px;
 }
+.Typewriter__wrapper{
+  float: left !important;
+}
+.Typewriter__cursor{
+  display: none;
+}
